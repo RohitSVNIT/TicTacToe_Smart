@@ -1,3 +1,3 @@
-# Tutorial
+# Tic Tac Toe
 
-This is my tutorial repository.
+AI Based Single Player and Multi-player Game
